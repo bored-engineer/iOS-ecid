@@ -1,0 +1,10 @@
+Package: com.innoying.ecid
+Name: ECID
+Depends: 
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: A simple tool to print out the devices ecid.
+Maintainer: innoying
+Author: innoying
+Section: System
+Tag: role::Developer
